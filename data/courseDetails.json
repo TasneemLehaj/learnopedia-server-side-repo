@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "An Introduction to Interactive Programming in Python ",
+        "img": "https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image_variant/2db52f4deb6f_w240.webp",
+        " details": "This course aims to teach everyone the basics of programming computers using Python. We cover the basics of how one constructs a program from a series of simple instructions in Python.",
+        "reviews": 213
+    },
+    {
+        "id": 2,
+        "name": " Python and Statistics for Financial Analysis",
+        "img": "https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image_variant/2db52f4deb6f_w240.webp",
+        " details": "Due to python’s simplicity and high readability, it is gaining its importance in the financial industry. The course combines both python coding and statistical concepts and applies into analyzing financial data, such as stock data.",
+        "reviews": 227
+    },
+    {
+        "id": 3,
+        "name": "Python Data Structures ",
+        "img": "https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image_variant/2db52f4deb6f_w240.webp",
+        " details": "This course will introduce the core data structures of the Python programming language. We will move past the basics of procedural programming and explore how we can use the Python built-in data structures such as lists, dictionaries, and tuples to perform increasingly complex data analysis",
+        "reviews": 118
+    },
+    {
+        "id": 4,
+        "name": "An Introduction to Interactive Programming in Python ",
+        "img": "https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image_variant/2db52f4deb6f_w240.webp",
+        " details": " In this course, get introduced the basic elements of programming (such as expressions, conditionals, and functions) and then use these elements to create simple interactive applications such as a digital stopwatch.",
+        "reviews": 167
+    },
+    {
+        "id": 5,
+        "name": " Computing in Python I: Fundamentals and Procedural Programming",
+        "img": "https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image_variant/2db52f4deb6f_w240.webp",
+        " details": "This course starts from the beginning, covering the basics of how a computer interprets lines of code; how to write programs, evaluate their output, and revise the code itself; how to work with variables and their changing values; and how to use mathematical, boolean, and relational operators.",
+        "reviews": 224
+    },
+    {
+        "id": 6,
+        "name": " Using Python to Access Web Data",
+        "img": "https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image_variant/2db52f4deb6f_w240.webp",
+        " details": "This course will show how one can treat the Internet as a source of data. We will scrape, parse, and read web data as well as access data using web APIs. We will work with HTML, XML, and JSON data formats in Python",
+        "reviews": 316
+    }
+]
