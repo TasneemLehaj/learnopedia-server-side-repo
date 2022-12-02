@@ -1,26 +1,38 @@
 [
     {
         "id": 1,
-        "name": "An Introduction to Interactive Programming in Python "
+        "name": "An Introduction to Interactive Programming in Python ",
+        "img": "https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image_variant/2db52f4deb6f_w240.webp",
+        "time": "3-6 months"
     },
     {
         "id": 2,
-        "name": " Python and Statistics for Financial Analysis"
+        "name": " Python and Statistics for Financial Analysis",
+        "img": "https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image_variant/2db52f4deb6f_w240.webp",
+        "time": "2-6 months"
     },
     {
         "id": 3,
-        "name": "Python Data Structures "
+        "name": "Python Data Structures ",
+        "img": "https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image_variant/2db52f4deb6f_w240.webp",
+        "time": "4-6 months"
     },
     {
         "id": 4,
-        "name": "An Introduction to Interactive Programming in Python "
+        "name": "An Introduction to Interactive Programming in Python ",
+        "img": "https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image_variant/2db52f4deb6f_w240.webp",
+        "time": "3-6 months"
     },
     {
         "id": 5,
-        "name": " Computing in Python I: Fundamentals and Procedural Programming"
+        "name": " Computing in Python I: Fundamentals and Procedural Programming",
+        "img": "https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image_variant/2db52f4deb6f_w240.webp",
+        "time": "2-3 months"
     },
     {
         "id": 6,
-        "name": " Using Python to Access Web Data"
+        "name": " Using Python to Access Web Data",
+        "img": "https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image_variant/2db52f4deb6f_w240.webp",
+        "time": "3-6 months"
     }
 ]

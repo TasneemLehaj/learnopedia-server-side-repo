@@ -23,6 +23,12 @@ app.get('/courses/:id', (req, res) => {
     res.send(course);
 })
 
+app.get('/details/:id', (req, res) => {
+    const id = req.params.id;
+    const selectedCourse = courseDetails.find(details => details.id == id);
+    res.send(selectedCourse);
+})
+
 app.listen(port, () => {
     console.log('leanopedia running on port', port);
 })
