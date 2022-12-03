@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "An Introduction to Interactive Programming in Python ",
-        "img": "https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image_variant/2db52f4deb6f_w240.webp",
+        "img": "https://media.istockphoto.com/id/1284202542/vector/programming-language-python-conceptual-banner-education-coding-computer-language-python.jpg?s=612x612&w=0&k=20&c=DwTB320vMYH8MAnPjrwEeJqlWs1V4y10ExC0xcMmHig=",
         "time": "3-6 months"
     },
     {
@@ -14,13 +14,13 @@
     {
         "id": 3,
         "name": "Python Data Structures ",
-        "img": "https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image_variant/2db52f4deb6f_w240.webp",
+        "img": "https://media.istockphoto.com/id/1284202542/vector/programming-language-python-conceptual-banner-education-coding-computer-language-python.jpg?s=612x612&w=0&k=20&c=DwTB320vMYH8MAnPjrwEeJqlWs1V4y10ExC0xcMmHig=",
         "time": "4-6 months"
     },
     {
         "id": 4,
         "name": "An Introduction to Interactive Programming in Python ",
-        "img": "https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image_variant/2db52f4deb6f_w240.webp",
+        "img": " https://thumbs.dreamstime.com/b/python-programming-language-server-room-background-programing-workflow-abstract-algorithm-concept-virtual-screen-141876825.jpg",
         "time": "3-6 months"
     },
     {
@@ -32,7 +32,7 @@
     {
         "id": 6,
         "name": " Using Python to Access Web Data",
-        "img": "https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image_variant/2db52f4deb6f_w240.webp",
+        "img": "https://thumbs.dreamstime.com/b/python-programming-language-server-room-background-programing-workflow-abstract-algorithm-concept-virtual-screen-141876825.jpg",
         "time": "3-6 months"
     }
 ]
